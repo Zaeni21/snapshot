@@ -64,7 +64,7 @@
     "typescript": "^5.3.3",
     "v-viewer": "^3.0.11",
     "vite-compatible-readable-stream": "^3.6.1",
-    "vue": "^3.4.0",
+    "vue": "^3.4.3",
     "vue-i18n": "^9.8.0",
     "vue-router": "^4.2.5",
     "vue-tippy": "^6.4.1",
